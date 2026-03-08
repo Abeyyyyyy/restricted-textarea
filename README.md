@@ -34,7 +34,7 @@ cd restricted-textarea
 ```
 
 3. Buka file `index.html` di browser.
-4. 
+4. https://abeyyyyyy.github.io/restricted-textarea/
 
 ## Tujuan Pembelajaran
 
